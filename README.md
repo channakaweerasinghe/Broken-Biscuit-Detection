@@ -43,4 +43,10 @@ Images are saved in output_images folder with labels:
 - Intact Biscuit
 - Broken Biscuit
 
+- <img width="600" height="800" alt="result_round_06" src="https://github.com/user-attachments/assets/70b18882-b135-4573-b78b-ffd9fb7077b2" />
+
+
+<img width="600" height="800" alt="result_square_02" src="https://github.com/user-attachments/assets/2eb600c2-4623-4b0b-9fb5-2739d1961bf1" />
+
+
 
