@@ -43,6 +43,11 @@ Images are saved in output_images folder with labels:
 - Intact Biscuit
 - Broken Biscuit
 
+- Detected biscuits are shown using bounding boxes and text labels.
+- The bounding boxes show the detected biscuit region, and the labels show the classification result.
+- Detailed contour or edge lines are not drawn on the final output images because the output was kept clear and easy to read.
+- However, contour information is used internally by the program for shape analysis and classification.
+
 - <img width="600" height="800" alt="result_round_06" src="https://github.com/user-attachments/assets/70b18882-b135-4573-b78b-ffd9fb7077b2" />
 
 
