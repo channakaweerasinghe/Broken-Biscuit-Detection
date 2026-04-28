@@ -30,5 +30,4 @@ Images are saved in output_images folder with labels:
 - Intact Biscuit
 - Broken Biscuit
 
-## Limitations
-Some broken biscuits may be detected as intact due to shape similarity.
+
