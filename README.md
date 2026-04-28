@@ -40,8 +40,8 @@ The following classical image processing methods were used:
 
 ## Output
 Images are saved in output_images folder with labels:
-- Intact Biscuit
-- Broken Biscuit
+1. Intact Biscuit
+2. Broken Biscuit
 
 - Detected biscuits are shown using bounding boxes and text labels.
 - The bounding boxes show the detected biscuit region, and the labels show the classification result.
